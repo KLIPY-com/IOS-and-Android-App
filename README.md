@@ -23,3 +23,9 @@ KLIPY is a mobile app for creating, playing and sharing AI-generated mini-games.
 
 - [KLIPY App For iOS](https://apps.apple.com/us/app/klipy-games-gifs-more/id1598936040)
 - [KLIPY App For Android](https://play.google.com/store/apps/details?id=com.kikliko&hl=en)
+
+
+## Community & Support
+
+- Community chat: [Discord Server](https://discord.com/invite/79bEwhumU3)
+- Support: [KLIPY Support Center](https://klipy.com/support)
